@@ -1,0 +1,26 @@
+{
+    "players": {
+        "az_1129": {
+            "id": "az_1129",
+            "name": "az",
+            "buzzed": false,
+            "last_buzz": 1764873617,
+            "last_snapshot": 1764873687
+        },
+        "az_9664": {
+            "id": "az_9664",
+            "name": "az",
+            "buzzed": true,
+            "last_buzz": 1765247006,
+            "last_snapshot": 1765249074
+        }
+    },
+    "current_question": "Comment jouer au tennis ?",
+    "playlist": [
+        "Question 1 - blabla",
+        "Question 2 - blablalblalal",
+        "Q3 - etc"
+    ],
+    "master": null,
+    "last_update": 1765249074
+}
