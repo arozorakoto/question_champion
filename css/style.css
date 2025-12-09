@@ -12,3 +12,8 @@ body{font-family: Arial, sans-serif; background:#f6f7fb; color:#111; margin:20px
 .player-card .buzzed{color:#fff;background:#dc3545;padding:6px;border-radius:6px;margin-top:6px;}
 .player-card .not-buzzed{color:#333;background:#eee;padding:6px;border-radius:6px;margin-top:6px;}
 textarea#playlistArea{width:100%;height:120px;margin-bottom:6px;}
+
+/* css/style.css */
+body{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
+video{background:#000;}
+.player-card img{background:#222;}

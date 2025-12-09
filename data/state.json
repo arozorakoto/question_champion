@@ -1,26 +1,171 @@
 {
-    "players": {
-        "az_1129": {
-            "id": "az_1129",
-            "name": "az",
-            "buzzed": false,
-            "last_buzz": 1764873617,
-            "last_snapshot": 1764873687
-        },
-        "az_9664": {
-            "id": "az_9664",
-            "name": "az",
-            "buzzed": true,
-            "last_buzz": 1765247006,
-            "last_snapshot": 1765249074
-        }
-    },
-    "current_question": "Comment jouer au tennis ?",
+    "master_pass": "pass",
+    "master_user": "master",
+    "players": [],
     "playlist": [
-        "Question 1 - blabla",
-        "Question 2 - blablalblalal",
-        "Q3 - etc"
+        {
+            "text": "La vapeur satur\u00e9e s\u00e8che correspond \u00e0 :",
+            "options": [
+                "(x=0)"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Une d\u00e9tente isentropique se d\u00e9roule \u00e0 :",
+            "options": [
+                "pression constante"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Dans une turbine, la vapeur :",
+            "options": [
+                "ne fait aucun travail"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "L\u2019unit\u00e9 de l\u2019enthalpie est :",
+            "options": [
+                "kW"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "La puissance d\u2019une turbine s\u2019exprime en :",
+            "options": [
+                "bar"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "L\u2019enthalpie d\u2019entr\u00e9e d\u2019une vapeur satur\u00e9e s\u00e8che est :",
+            "options": [
+                "(h_f)"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Dans une d\u00e9tente isentropique, la qualit\u00e9 \u00e0 la sortie d\u00e9pend de :",
+            "options": [
+                "la masse volumique"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Le titre de vapeur (qualit\u00e9) est :",
+            "options": [
+                "fraction massique vapeur"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Une turbine fonctionnant entre 40 bar et 0,04 bar a g\u00e9n\u00e9ralement une sortie :",
+            "options": [
+                "liquide satur\u00e9"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Le travail massique de la turbine se calcule par :",
+            "options": [
+                "(h_2 - h_1)"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Le rendement isentropique d\u2019une turbine est :",
+            "options": [
+                "(\\frac{h_1-h_{2r}}{h_1-h_{2s}})"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Une vapeur humide a une qualit\u00e9 :",
+            "options": [
+                "(x>1)"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Si (s_1=6{,}45), (s_f=0{,}476) et (s_g=8{,}15), alors la qualit\u00e9 vaut environ :",
+            "options": [
+                "0,50"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Lorsque la pression de sortie diminue, la qualit\u00e9 isentropique :",
+            "options": [
+                "augmente"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "L\u2019enthalpie de sortie isentropique d\u2019un m\u00e9lange humide est :",
+            "options": [
+                "(h_f - xh_g)"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Une turbine produit plus de puissance si :",
+            "options": [
+                "la pression de sortie augmente"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Une qualit\u00e9 trop faible en sortie provoque :",
+            "options": [
+                "aucune cons\u00e9quence"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Un bon rendement isentropique vaut typiquement :",
+            "options": [
+                "30\u201340 %"
+            ],
+            "correct": 0,
+            "duration": 75
+        },
+        {
+            "text": "Si (h_{2r} > h_{2s}), alors :",
+            "options": [
+                "la turbine est parfaite"
+            ],
+            "correct": 0,
+            "duration": 0
+        },
+        {
+            "text": "Pour \u00e9viter une vapeur trop humide, on utilise :",
+            "options": [
+                "une surchauffe"
+            ],
+            "correct": 0,
+            "duration": 0
+        }
     ],
-    "master": null,
-    "last_update": 1765249074
+    "current_index": 2,
+    "current_status": "running",
+    "started_at": 1765278873,
+    "last_update": 1765278873
 }
